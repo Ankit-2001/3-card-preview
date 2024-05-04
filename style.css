@@ -47,6 +47,7 @@ div {
   padding: 30px;
 }
 button {
+  background-color: hsl(0, 0%, 95%);
   height: 40px;
   width: 130px;
   border: none;
